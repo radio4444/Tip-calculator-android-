@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="checkAmountText">Check Amount:</string>
+    <string name="partySizeText">Party Size:</string>
+    <string name="buttonCompute">COMPUTE TIP</string>
+    <string name="titleText"><u>Tips and totals (per person)</u></string>
+    <string name="tipText">Tip:</string>
+    <string name="totalText">Total:</string>
+    <string name="fifteenPercent">15%</string>
+    <string name="twentyPercent">20%</string>
+    <string name="twentyfivePercent">25%</string>
+</resources>
